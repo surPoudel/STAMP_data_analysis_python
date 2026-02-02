@@ -118,7 +118,7 @@ Outputs:
 
 ## Citation
 
-If you use this code, please cite the associated STAMP manuscript and the original dataset accession.
+If you use this code, please cite the associated STAMP manuscript for the original dataset accession and mini-review for the python code usage.
 
 ---
 
