@@ -118,7 +118,7 @@ Outputs:
 
 ## Citation
 
-If you use this code, please cite the associated STAMP manuscript for the original dataset accession and mini-review for the python code usage.
+If you use this code, please cite the associated STAMP manuscript for the original dataset accession and Poudel, S., Dezem, F. S., Martelotto, L. G., Plummer, J. T., & Green, D. R. (2026). Democratizing the spatial view: STAMP technology from an analytical perspective. EXO-Beyond the Cell, 1(2), 202608-202608. for the python code usage.
 
 ---
 
